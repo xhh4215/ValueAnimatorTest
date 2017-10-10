@@ -45,4 +45,5 @@ public class MyPointView extends View {
         valueAnimator.setInterpolator(new BounceInterpolator());
         valueAnimator.start();
     }
+
     }
